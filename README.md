@@ -16,7 +16,7 @@ Analizar la asignación de horas de docentes e identificar oportunidades de opti
 ### Similitud de contenidos
 - Vectorización de textos con TF-IDF
 - Cálculo de similitud con cosine similarity
-- Clasificación por niveles de similitud
+- Clasificación por niveles de similitud.
 
 ## Tecnologías
 - Python
