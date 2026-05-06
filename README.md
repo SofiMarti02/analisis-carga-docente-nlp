@@ -27,5 +27,9 @@ Analizar la asignación de horas de docentes e identificar oportunidades de opti
 ## Estructura
 - `notebooks/`: notebooks principales del proyecto
 
+## Ejemplo de resultado
+
+![Similitud](images/similitud_materias.png)
+
 ## Nota
 Las bases de datos originales no se incluyen por restricciones de confidencialidad.
